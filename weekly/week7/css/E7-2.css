@@ -1,0 +1,61 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#topbox{
+	width:908px;
+	height:67px;
+	background-color:lightblue;
+}
+
+#subbox{
+	Width:908px;
+	height:31px;
+	top:82px;
+	margin-top:15px;
+	margin-bottom: 15px;
+	background-color:antiquewhite
+}
+
+#columns{
+	width: 1200px;
+	height: 300px;
+	display: flex;
+	
+}
+
+
+.column1 {
+	width: 207px;
+	height: 382px;
+	margin-left:16px;
+	background-color:pink;
+}
+.column2 {
+	width: 207px;
+	height: 382px;
+	margin-left:16px;
+	background-color:pink;
+}
+.column3 {
+	width: 207px;
+	height: 382px;
+	margin-left:16px;
+	background-color:pink;
+}
+
+.column4 {
+	width: 207px;
+	height: 382px;
+	margin-left:16px;
+	background-color:pink;
+	
+}
+
+#bottombox{
+	width:908px;
+	height:67px;
+	background-color:lightblue;
+	margin-top: 100px;
+}
+
+
