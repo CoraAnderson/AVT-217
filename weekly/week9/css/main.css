@@ -1,0 +1,63 @@
+@charset "UTF-8";
+/* CSS Document */
+  body {
+    text-align: center;
+    background:url("img/Boo.jpg") no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+
+#container {
+  }
+
+  p {
+	text-transform:uppercase;
+	color: antiquewhite;
+	font-weight:800;
+	font-family:"Titillium Web", sans-serif;
+	 font-style:normal;
+	  font-size: 6em;
+	  
+  }
+ 
+
+
+/* tell browser don't display it when screen is wider than 768px */
+  .mobile-only {
+    display: none;
+  }
+
+/* tell browser to do the followings when screen is at and narrower than 768px */
+  @media only screen and (max-width: 768px) {
+	  
+    body {
+ background:url("../../HappyHalloween.jpg;")
+		
+    }
+	  
+	#container {
+ background-color: antiquewhite;
+    }
+	   
+    p {
+	Color: orange;
+	text-transform: none;
+	line-height: 0px;
+	
+    }
+	  
+	#cursive {
+  	}
+	  
+    .mobile-only {
+   		display:block;
+    }
+	  /* Now the style and content for desktop will not be displied */
+    .desktop-only {
+
+		display:none;
+    }
+
+} /* don't forget to close the styles for mobile/
