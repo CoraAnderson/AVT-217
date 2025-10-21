@@ -2,7 +2,7 @@
 /* CSS Document */
   body {
     text-align: center;
-    background: url("../img/Boo.jpg") no-repeat center center fixed;
+    background:url( "../img/Boo.jpg") no-repeat center center fixed;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;
@@ -34,7 +34,6 @@
 	  
     body {
  background:url("../../HappyHalloween.jpg;")
-		
     }
 	  
 	#container {
