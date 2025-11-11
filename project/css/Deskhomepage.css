@@ -30,7 +30,7 @@ a:hover{
 }
 
 .TitleImage {
-	background-image: url("Titlepage.png");
+	background-image: url("../img/Titlepage.png");
 	background-size: 100% 373px;
 	width: 100%;
 	height: 373px;
@@ -44,7 +44,7 @@ a:hover{
 }
 
 .Logo {
-	background-image: url("CroppedPineslogo.png");
+	background-image: url("../img/CroppedPineslogo.png");
 	display: flex;
 	flex-direction:row;
 	justify-content: center;
@@ -105,7 +105,7 @@ a:hover{
 }
 
 .middleimage {
-	background-image: url("Abouthome.png");
+	background-image: url("../img/Abouthome.png");
 	background-size: 100% 554px;
 	width:100%;
 	height: 554px;
@@ -132,7 +132,7 @@ a:hover{
 	padding-bottom: 150px;
 }
 .bottomImage {
-	background-image: url("Homefire.png");
+	background-image: url("../img/Homefire.png");
 	background-size: 100% 445px;
 	width:100%;
 	height: 445px;
@@ -193,7 +193,7 @@ h3 {
 }
 
 .logoshadow {
-	background-image: url("LogoBackground.png");
+	background-image: url("../img/LogoBackground.png");
 	background-repeat: no-repeat;
 	width: 208px;
 	height: 208px;
@@ -227,7 +227,7 @@ h3 {
 }
 
 .Greenbar {
-	background-image: url("GreenBars.png");
+	background-image: url("../img/GreenBars.png");
 	width: 143px;
 	height: 59px;
 }
@@ -284,7 +284,7 @@ h3 {
 }
 
 .WedgeSalad {
-	background-image: url("WedgeSalad.png");
+	background-image: url("../img/WedgeSalad.png");
 	width: 315px;
 	height: 315px;
 	margin-top: 80px;
@@ -310,7 +310,7 @@ h3 {
 }
 
 .PoachedFish{
-	background-image: url("PoachedFish.png");
+	background-image: url("../img/PoachedFish.png");
 	width:315px;
 	height: 315px;
 	margin-top: 80px;
@@ -318,7 +318,7 @@ h3 {
 }
 
 .BeefandGreens {
-	background-image: url("BeefandGreens.png");
+	background-image: url("../img/BeefandGreens.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
@@ -327,14 +327,14 @@ h3 {
 
 
 .Meatballs {
-	background-image: url("MeatballsandEggplant.png");
+	background-image: url("../img/MeatballsandEggplant.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
 }
 
 .ChickenandWaffles {
-	background-image: url("ChickenandWaffles.png");
+	background-image: url("../img/ChickenandWaffles.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
@@ -371,7 +371,7 @@ h3 {
 }
 
 .Tortilla {
-	background-image: url("ChipswithDip.png");
+	background-image: url("../img/ChipswithDip.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
@@ -379,7 +379,7 @@ h3 {
 }
 
 .GreenBeans {
-	background-image: url("SeasonedGreenBeans.png");
+	background-image: url("../img/SeasonedGreenBeans.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
@@ -387,7 +387,7 @@ h3 {
 }
 
 .Chickenbiites {
-	background-image: url("SkeweredChickenBites.png");
+	background-image: url("../img/SkeweredChickenBites.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
@@ -395,7 +395,7 @@ h3 {
 }
 
 .Deviledeggs {
-	background-image: url("DeviledEggs.png");
+	background-image: url("../img/DeviledEggs.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
@@ -432,52 +432,52 @@ h3 {
 }
 
 .Linguine {
-	background-image: url("Linguine.png");
+	background-image: url("../img/Linguine.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
 	margin-bottom: 250px;
 }
 .Greencurry {
-	background-image: url("GreenCurry.png");
+	background-image: url("../img/GreenCurry.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
 	margin-bottom: 250px;
 }
 .soup {
-	background-image: url("PeaChickenSoup.png");
+	background-image: url("../img/PeaChickenSoup.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
 	margin-bottom: 250px;
 }
 .Ribs {
-	background-image: url("ShortRibs.png");
+	background-image: url("../img/ShortRibs.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 250px;
 }
 .greens {
-	background-image: url("ChickenwithGreens.png");
+	background-image: url("../img/ChickenwithGreens.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 250px;
 }
 .Lettuce {
-	background-image: url("ChickenLettuceWraps.png");
+	background-image: url("../img/ChickenLettuceWraps.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 250px;
 }
 .potato {
-	background-image: url("PotatoFritata.png");
+	background-image: url("../img/PotatoFritata.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
 }
 .peru {
-	background-image: url("PeruvianChicken.png");
+	background-image: url("../img/PeruvianChicken.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
@@ -514,40 +514,40 @@ h3 {
 }
 
 .cake {
-	background-image: url("CoconutCakeSlice.png");
+	background-image: url("../img/CoconutCakeSlice.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
 	margin-bottom: 300px;
 }
 .icecream {
-	background-image: url("PistachioIceCreamwithCookieCenter.png");
+	background-image: url("../img/PistachioIceCreamwithCookieCenter.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
 	margin-bottom: 300px;
 }
 .mint {
-	background-image: url("LayeredMintChocolate.png");
+	background-image: url("../img/LayeredMintChocolate.png");
 	Width: 315px;
 	height: 315px;
 	margin-top: 80px;
 	margin-bottom: 300px;
 }
 .vanilla {
-	background-image: url("VanillaTruffles.png");
+	background-image: url("../img/VanillaTruffles.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
 }
 .pie {
-	background-image: url("PumpkinPieSlice.png");
+	background-image: url("../img/PumpkinPieSlice.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
 }
 .cream {
-	background-image: url("CookiesNCreamMilkshake.png");
+	background-image: url("../img/CookiesNCreamMilkshake.png");
 	Width: 315px;
 	height: 315px;
 	margin-bottom: 455px;
