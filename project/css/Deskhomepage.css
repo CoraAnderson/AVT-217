@@ -7,8 +7,16 @@ width: 100%;
 height: 3243px;
 margin-left: 0px;
 position: 0;
-
 }
+
+section{ 
+background-color: #C28151;
+width: 100%;
+height: 7215px;
+margin-left: 0px;
+position: 0;
+}
+
 a:link{
 	color: #FFE0AA;
 	text-decoration: none;
@@ -21,9 +29,8 @@ a:hover{
 	text-decoration: underline;
 }
 
-
 .TitleImage {
-	background-image: url("../img/Titlepage.png");
+	background-image: url("Titlepage.png");
 	background-size: 100% 373px;
 	width: 100%;
 	height: 373px;
@@ -37,7 +44,7 @@ a:hover{
 }
 
 .Logo {
-	background-image: url("../img/CroppedPineslogo.png");
+	background-image: url("CroppedPineslogo.png");
 	display: flex;
 	flex-direction:row;
 	justify-content: center;
@@ -98,7 +105,7 @@ a:hover{
 }
 
 .middleimage {
-	background-image: url("../img/Abouthome.png");
+	background-image: url("Abouthome.png");
 	background-size: 100% 554px;
 	width:100%;
 	height: 554px;
@@ -125,7 +132,7 @@ a:hover{
 	padding-bottom: 150px;
 }
 .bottomImage {
-	background-image: url("../img/Homefire.png");
+	background-image: url("Homefire.png");
 	background-size: 100% 445px;
 	width:100%;
 	height: 445px;
@@ -182,5 +189,369 @@ h3 {
 	font-style: normal;;
 	font-size: 24px;
 	color: #253422;
+	margin-bottom: 20px
 }
+
+.logoshadow {
+	background-image: url("LogoBackground.png");
+	background-repeat: no-repeat;
+	width: 208px;
+	height: 208px;
+	background-color:transparent;
+	z-index: 10;
+	align-content: left;
+}
+
+#lightgreenbar {
+	background-color: #689169;
+	background-size: 100% 208;
+	width: 100%;
+	height: 208px;
+	margin-left:0px;
+	display: flex;              
+  	justify-content: space-evenly;   
+ 	align-items: center;
+	margin-top: -8px
+}
+
+.Pines {
+	text-decoration: none;
+	font-family: "instrument-serif", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 96px;
+	text-align: center;
+	color: #253422;
+	padding-right: 200px;
+	padding-left: 200px;
+}
+
+.Greenbar {
+	background-image: url("GreenBars.png");
+	width: 143px;
+	height: 59px;
+}
+
+#darkgreenbar {
+	background-color: #253422;
+	background-size: 100% 218;
+	width: 100%;
+	length: 218px;
+	margin-left:0px;
+	display: flex;              
+  	justify-content: space-evenly;   
+ 	align-items: center;
+}
+
+.Menu {
+	text-decoration: none;
+	font-family: "instrument-serif", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 128px;
+	text-align: center;
+	color: #FFE0AA;
+}
+
+#featured {
+    width: 720px;
+    height: 161px;
+    background-color: #FFE0AA;
+    border-radius: 0px 40px 40px 0px;
+	display: flex;              
+  	justify-content: space-evenly;   
+ 	align-items: center;
+}
+
+.Featured {
+	font-family: "libre-caslon-display", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 64px;
+	color: #253422;
+}
+
+#featuredfood1 {
+	justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+	position: relative;
+	display: grid;
+ 	grid-template-columns: repeat(3, 1fr); 
+ 	gap: 30px;
+	margin-left: 95px;
+}
+
+.WedgeSalad {
+	background-image: url("WedgeSalad.png");
+	width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 200px;
+}
+
+.Foodtext {
+	text-align: center;
+	margin-top: 350px;
+	font-family: "libre-caslon-display", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 48px;
+	color: #253422;
+}
+.Subtext {
+	text-align: center;
+	font-family: "libre-caslon-display", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 32px;
+	color: #253422;
+}
+
+.PoachedFish{
+	background-image: url("PoachedFish.png");
+	width:315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 200px;
+}
+
+.BeefandGreens {
+	background-image: url("BeefandGreens.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 200px;
+}
+
+
+.Meatballs {
+	background-image: url("MeatballsandEggplant.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+
+.ChickenandWaffles {
+	background-image: url("ChickenandWaffles.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+
+#appetizers {
+    width: 720px;
+    height: 161px;
+    background-color: #FFE0AA;
+    border-radius: 0px 40px 40px 0px;
+	display: flex;              
+  	justify-content: space-evenly;   
+ 	align-items: center;
+}
+
+.appetizers{
+	font-family: "libre-caslon-display", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 64px;
+	color: #253422;
+}
+
+#allappetizers {
+	justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+	position: relative;
+	display: grid;
+ 	grid-template-columns: repeat(3, 1fr); 
+ 	gap: 30px;
+	margin-left: 95px;
+}
+
+.Tortilla {
+	background-image: url("ChipswithDip.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+
+.GreenBeans {
+	background-image: url("SeasonedGreenBeans.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+
+.Chickenbiites {
+	background-image: url("SkeweredChickenBites.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+
+.Deviledeggs {
+	background-image: url("DeviledEggs.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+
+ #entrees {
+    width: 720px;
+    height: 161px;
+    background-color: #FFE0AA;
+    border-radius: 0px 40px 40px 0px;
+	display: flex;              
+  	justify-content: space-evenly;   
+ 	align-items: center;
+}
+
+.entrees{
+	font-family: "libre-caslon-display", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 64px;
+	color: #253422;
+}
+
+#allaentrees {
+	justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+	position: relative;
+	display: grid;
+ 	grid-template-columns: repeat(3, 1fr); 
+ 	gap: 30px;
+	margin-left: 95px;
+}
+
+.Linguine {
+	background-image: url("Linguine.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 250px;
+}
+.Greencurry {
+	background-image: url("GreenCurry.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 250px;
+}
+.soup {
+	background-image: url("PeaChickenSoup.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 250px;
+}
+.Ribs {
+	background-image: url("ShortRibs.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 250px;
+}
+.greens {
+	background-image: url("ChickenwithGreens.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 250px;
+}
+.Lettuce {
+	background-image: url("ChickenLettuceWraps.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 250px;
+}
+.potato {
+	background-image: url("PotatoFritata.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+.peru {
+	background-image: url("PeruvianChicken.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+
+#Dessert {
+    width: 720px;
+    height: 161px;
+    background-color: #FFE0AA;
+    border-radius: 0px 40px 40px 0px;
+	display: flex;              
+  	justify-content: space-evenly;   
+ 	align-items: center;
+}
+
+.Dessert{
+	font-family: "libre-caslon-display", sans-serif;
+	font-weight: 400;
+	font-style: normal;
+	font-size: 64px;
+	color: #253422;
+}
+
+#alldessert {
+	justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 0px;
+	position: relative;
+	display: grid;
+ 	grid-template-columns: repeat(3, 1fr); 
+ 	gap: 30px;
+	margin-left: 95px;
+}
+
+.cake {
+	background-image: url("CoconutCakeSlice.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+.icecream {
+	background-image: url("PistachioIceCreamwithCookieCenter.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+.mint {
+	background-image: url("LayeredMintChocolate.png");
+	Width: 315px;
+	height: 315px;
+	margin-top: 80px;
+	margin-bottom: 300px;
+}
+.vanilla {
+	background-image: url("VanillaTruffles.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+.pie {
+	background-image: url("PumpkinPieSlice.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+.cream {
+	background-image: url("CookiesNCreamMilkshake.png");
+	Width: 315px;
+	height: 315px;
+	margin-bottom: 455px;
+}
+
+
 
