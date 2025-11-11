@@ -299,6 +299,7 @@ h3 {
 	font-style: normal;
 	font-size: 32px;
 	color: #253422;
+	line-height: 10px;
 }
 
 .PoachedFish{
@@ -530,19 +531,19 @@ h3 {
 	background-image: url("../img/VanillaTruffles.png");
 	Width: 315px;
 	height: 315px;
-	margin-bottom: 455px;
+	margin-bottom: 300px;
 }
 .pie {
 	background-image: url("../img/PumpkinPieSlice.png");
 	Width: 315px;
 	height: 315px;
-	margin-bottom: 455px;
+	margin-bottom: 300px;
 }
 .cream {
 	background-image: url("../img/CookiesNCreamMilkshake.png");
 	Width: 315px;
 	height: 315px;
-	margin-bottom: 455px;
+	margin-bottom: 300px;
 }
 
 
